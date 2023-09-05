@@ -1,0 +1,10 @@
+
+
+Коллеги, по 3-му уроку основы Java:
+1) презентация
+https://docs.google.com/presentation/d/1VLMX5U7oCiWKmi77AbEpolveMrkxQn6z3ZcN-yVxcb0/edit#slide=id.g1b9234bee13_0_20
+
+2) ссылка на git
+https://github.com/alex2808pl/Java-basic-090523-m.git
+
+3) https://github.com/alex2808pl/Java-basic-090523-m 
