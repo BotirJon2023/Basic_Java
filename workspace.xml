@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603602b5-45fe-4bb9-8051-b9a71a543fc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson_2/Project_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_3/Project_4/src/main/java/Lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_3/Project_4/src/main/java/lesson3/Lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_3/Project_4/src/main/java/lesson3/lesson3/PracticeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_3/Project_4/src/main/java/lesson3/lesson3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_3/Project_4/src/main/java/lesson3/lesson3/TestScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_3/lesson4.main/src/main/java/org/example/StackHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_3/lesson4.main/src/main/java/org/example/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Basic QA/Basic QA Krylov Vladimir.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basic QA/Basic QA Krylov Vladimir.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Basic QA/QA_ДЗ_15.05.2023.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Basic QA/Список ДЗ по QA Testing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basic QA/Список ДЗ по QA Testing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux/Linux.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Linux/Linux.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux/link to Linux Material.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux/list of HomeWorks on Linux.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Linux/list of HomeWorks on Linux.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../password for GitHub.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../password for GitHub.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../База FrontEnd/Basic FE Iusupov Arsen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../База FrontEnd/Basic FE Iusupov Arsen.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../База FrontEnd/ссылки на ДЗ по Front End.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../База FrontEnd/ссылки на ДЗ по Front End.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Загрузка на GitHub/ссылка на урок по GitHub.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Загрузка на GitHub/ссылка на урок по GitHub.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Rn6JKiZF0sSUNi9bwe3mLYvKDC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Tel-ran.de/Desktop/IT Tel Ran/Program"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603602b5-45fe-4bb9-8051-b9a71a543fc0" name="Changes" comment="" />
+      <created>1687873426948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687873426948</updated>
+    </task>
+    <servers />
+  </component>
+</project>
