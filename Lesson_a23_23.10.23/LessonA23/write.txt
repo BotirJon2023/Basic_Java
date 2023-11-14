@@ -1,0 +1,5 @@
+BODY	Dimensions	159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in)
+Weight	221 g (7.80 oz)
+Build	Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)
+SIM	Nano-SIM and eSIM - International
+Dual eSIM with multiple numbers - USA
