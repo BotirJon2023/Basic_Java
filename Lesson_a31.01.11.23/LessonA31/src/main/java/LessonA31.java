@@ -1,0 +1,2 @@
+public class LessonA31 {
+}
