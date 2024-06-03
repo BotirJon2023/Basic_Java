@@ -9,9 +9,7 @@ public class DisplayTheUpperTriangularMatrix {
         int a[][] = {
 
                 {1, 2, 3},
-
                 {8, 6, 4},
-
                 {4, 5, 6}
         };
 
@@ -27,6 +25,7 @@ public class DisplayTheUpperTriangularMatrix {
         }
 
         else {
+
 
             System.out.println("Upper triangular matrix: ");
 
@@ -48,4 +47,5 @@ public class DisplayTheUpperTriangularMatrix {
             }
         }
     }
+
 }
